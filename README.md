@@ -1,7 +1,6 @@
-# ChatGPTv3.5-Jailbreak
-ChatGPT v3.5 jailbreak (Dan)
+# ChatGPT v3.5 Jailbreak (DAN)
 
-copy paste to your chatgpt
+copy paste to your ChatGPT
 <details>
   <summary>Click for Jailbreak details</summary>
 
